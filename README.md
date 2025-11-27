@@ -39,9 +39,10 @@ Execute the program using runserver command.
     <body bgcolor="gray">
 
         <img src="logo.png" width="1200">
+        <br>
+        <br>
 
-        <table border="1" cellspacing="6" cellpadding="11" style="margin-top: 30; cursor: pointer;">
-
+        <table border="1" cellspacing="6" cellpadding="11">
             <caption><b>SLOT  TIME  TABLE - PARVESHWARAN(25018243)</b></caption>
 
             <tr style="text-align: center;">
@@ -133,8 +134,10 @@ Execute the program using runserver command.
             </tr>
 
         </table>
+        <br>
+        <br>
 
-        <table border="3" cellspacing="5" cellpadding="10" style="margin-top: 25; cursor: pointer;">
+        <table border="3" cellspacing="5" cellpadding="10">
 
             <tr style="text-align: center;">
 
